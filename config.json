@@ -1,0 +1,27 @@
+{
+  "name": {
+    "zh-cn": "numpy",
+    "en": "numpy"
+  },
+  "description": {
+    "zh-cn": "numpy",
+    "en": "numpy"
+  },
+  "author": "winster",
+  "email": "2310016043@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "numpy",
+  "version": "0.0.3",
+  "platform": ["win","mac","web","linux"],
+  "asset": {
+    "python": {
+      "dir": "python/",
+      "main": "main.ts",
+      "version": "0.0.3",
+      "dependencies": {
+                "pinpong":""
+      }
+      }
+  }
+}
